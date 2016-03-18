@@ -136,6 +136,6 @@ int countGreaterNumbers(struct transaction *Arr, int len, char *date) {
 	if (first >= last)
 		return 0;
 
-
+	return -1;
 
 }
